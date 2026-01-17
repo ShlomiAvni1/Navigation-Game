@@ -12,9 +12,11 @@ This repository features a low-level **16-bit real-time navigation game** writte
 The following screenshots demonstrate the game in action within a DOSBox environment:
 
 ![Game Running](game_run.png)
+
 *Figure 1: Active gameplay showing player movement and objective collection.*
 
 ![Game Over](game_over.png)
+
 *Figure 2: Game over screen displaying the final score after a collision.*
 
 ---
